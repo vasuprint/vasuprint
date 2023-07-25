@@ -1,4 +1,4 @@
-<h1><img  src="./Pic/bird_run.gif"  width="30"/> Welcome to My chanel. src="./Pic/bird_run.gif" </h1>
+<h1><img  src="./Pic/bird_run.gif"  width="30"/> Welcome to My chanel.  </h1>
   
  <h4> Hi I'm Print! </h4>  <p>I'm Vasu. Thakaew, Programmer from <img  src="https://www.onesongchai.com/wp-content/uploads/2018/06/TH-Thailand-Flag-icon.png"  width="13"/> <b>Nonthaburi, Thailand</b>, My interested about <img  src="./Pic/deep-learning.png"  width="20"/> Deep learning and <img  src="./Pic/computer-vision-icon-.jpg"  width="20"/> Computer Vision. Now i study <b>Master degree in Deep learning and Robotics filed</b>. </p> 
 

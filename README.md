@@ -7,7 +7,8 @@
 ![Linkedin Badge](https://img.shields.io/badge/-Vasu-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white) ![Mail Badge](https://img.shields.io/badge/-@printcaro-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white) ![Mail Badge](https://img.shields.io/badge/-print1431-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white) ![Face Book](https://img.shields.io/badge/Vasu_Thakaew-%233b5998?style=flat%26label&logo=facebook&logoColor=white)
 ![Git Hub](https://img.shields.io/badge/vasuprint-%2312100E.svg?&style=flat&labelColor&logo=Github&logoColor=white) ![Discord](https://img.shields.io/badge/printcaro-%235865F2.svg?style=flat&label&logo=discord&logoColor=white)
 
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <h3>My Ability skill</h3> 
 <p>

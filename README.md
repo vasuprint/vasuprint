@@ -19,7 +19,7 @@
 - 🤔 I spend all most time to practice programming skill.
 - 📫 How to reach me: print1431@gmail.com
 - ⚡ Fun fact: I will go to the GYM very often.
-- :paperclip: [My Resume/CV(Old.)]([https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf](https://github.com/vasuprint/vasuprint/blob/main/Aboutme/Blue%20and%20Black%20Modern%20Resume%20(1).pdf))
+- :paperclip: [My Resume/CVOld.](https://github.com/vasuprint/vasuprint/blob/main/Aboutme/Blue%20and%20Black%20Modern%20Resume%20(1).pdf)
 
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">

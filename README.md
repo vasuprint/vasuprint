@@ -11,6 +11,7 @@
 
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 ### About me
 
 - 🔭 I’m currently working My Master degree project about Multi Activity recognition and Palm oil Classification machine.
